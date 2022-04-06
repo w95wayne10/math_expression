@@ -48,3 +48,13 @@ $$(11)$$
 
 
 $$(16)\,\,\,\int_{0}^{2\pi}\int_{0}^{2}\int_{r}^{6-r^2}r^2\sin\theta\cos\theta\,dz\,dr\,d\theta,\,0\,\,\,\,\,\,(22)\,\,\,-\frac{255}{4}\pi $$
+
+
+## 15.6-38
+
+
+1. $\int_{0}^{1}\int_{0}^{\sqrt{1-z}}\int_{0}^{1-x}f\,dy\,dx\,dz$
+2. $\int_{0}^{1}\int_{0}^{1-x}\int_{0}^{1-x^2}f\,dz\,dy\,dx$
+3. $\int_{0}^{1}\int_{0}^{1-y}\int_{0}^{1-x^2}f\,dz\,dx\,dy$
+4. $\int_{0}^{1}\int_{0}^{1-\sqrt{1-z}}\int_{0}^{\sqrt{1-z}}f\,dx\,dy\,dz$+$\int_{0}^{1}\int_{1-\sqrt{1-z}}^{1}\int_{0}^{1-y}f\,dx\,dy\,dz$
+5. $\int_{0}^{1}\int_{0}^{2y-y^2}\int_{0}^{1-y}f\,dx\,dz\,dy$+$\int_{0}^{1}\int_{2y-y^2}^{1}\int_{0}^{\sqrt{1-z}}f\,dx\,dz\,dy$
