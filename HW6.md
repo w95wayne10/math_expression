@@ -5,6 +5,7 @@
 $$
 r^2=ra\cos\theta \Rightarrow x^2+y^2=ax \Rightarrow (x-\frac{a}{2})^2+y^2=\frac{a^2}{4}
 $$
+
 $$
 \begin{array}{rlr}
 & \int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}\int_{0}^{a\cos\theta}\int_{-\sqrt{a^2-r^2}}^{\sqrt{a^2-r^2}}r\,dz\,dr\,d\theta & \\
@@ -25,8 +26,7 @@ $$
 &&\\
 = & \frac{2}{3}\pi a^3-\frac{4a^3}{3}(1-\frac{1}{3}) & \\
 &&\\
-= & \frac{2}{3}\pi a^3-\frac{8}{9}a^3= \frac{2}{9}a^3(3\pi-4)\,_\#&  \\
-&&\\
+= & \frac{2}{3}\pi a^3-\frac{8}{9}a^3= \frac{2}{9}a^3(3\pi-4)_\#&\\
 \end{array}
 $$
 
